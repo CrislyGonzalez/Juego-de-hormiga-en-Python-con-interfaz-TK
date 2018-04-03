@@ -1,0 +1,5 @@
+nameAnt,Dennis
+sugarClod,9
+poisonClod,9
+wineClod,9
+sizeMatrix,7
